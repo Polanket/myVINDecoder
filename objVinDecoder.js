@@ -1,4 +1,4 @@
-var WMItxt;
+var WMItxt; // Adding new stuff
 var YEARtxt;
 var insertVIN;
 function submitVin() {
