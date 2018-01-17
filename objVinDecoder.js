@@ -27,9 +27,6 @@ function vinYearCode() {
   }
 }
 
-
-
-
 vinWmi = { // Characters 1 to 3 of VIN number identify the maker
 AAV:"Volkswagen South Africa",
 AC5:"Hyundai South Africa",
