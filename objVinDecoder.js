@@ -1,4 +1,4 @@
-var WMItxt; // This will be the staging Code
+var WMItxt; // This will be the staging Codeddrgedg 
 var YEARtxt;
 var insertVIN;
 function submitVin() {
