@@ -1,4 +1,4 @@
-var WMItxt; // Adding new stuff
+var WMItxt; // Adding new stuff here and here
 var YEARtxt;
 var insertVIN;
 function submitVin() {
@@ -26,9 +26,6 @@ function vinYearCode() {
         YEARtxt = vinYear[yearCode]
   }
 }
-
-
-
 
 vinWmi = { // Characters 1 to 3 of VIN number identify the maker
 AAV:"Volkswagen South Africa",
