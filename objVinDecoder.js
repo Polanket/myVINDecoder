@@ -1,4 +1,4 @@
-var WMItxt; // Adding new stuff
+var WMItxt; // This will be the staging Code
 var YEARtxt;
 var insertVIN;
 function submitVin() {
