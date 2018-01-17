@@ -1,4 +1,4 @@
-var WMItxt; // This will be the staging Codeddrgedg 
+var WMItxt; // This will be the staging Branch, Do al tests here 
 var YEARtxt;
 var insertVIN;
 function submitVin() {
